@@ -10,6 +10,7 @@ This is for introduction of the repo
 ##Deployment
 
 ## How to contribute
+please fork mother fucker 
 
 ##Copyright
 2020 git
