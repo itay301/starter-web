@@ -11,6 +11,7 @@ This is for introduction of the repo
 
 ## How to contribute
 please fork mother fucker 
+adding text to README file
 
 ##Copyright
 2020 git
